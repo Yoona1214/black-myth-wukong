@@ -76,7 +76,6 @@
 	<video
 		id="wukong-transformation-video"
 		class="h-full w-full object-scale-down object-center"
-    controls
 		use:onVideoReady
 	>
 		<source src="/wukong-transformation.mp4" type="video/mp4" />
